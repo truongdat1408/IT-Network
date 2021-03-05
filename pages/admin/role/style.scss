@@ -1,0 +1,15 @@
+.admin-table >>> .ant-table-bordered .ant-table-thead > tr > th {
+  border-right: 1px solid #6B5B95 ;
+}
+
+.admin-table >>> .ant-table-thead > tr > th {
+  background: #6B5B95;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
